@@ -1,0 +1,32 @@
+/*** BODY ***/
+
+body {
+    background-color: rgb(241, 241, 241);
+    font-family: sans-serif;  
+}
+
+h1 {
+    color: rgb(9, 83, 194);
+}
+
+
+ol {
+    font-size: 25px;
+    display: inline-block;
+    padding: 0 15px;
+    
+}
+
+ul {
+    font-size: 20px;
+    display: inline-block;
+    padding: 0 15px;
+    
+}
+
+
+
+
+
+
+
